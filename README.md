@@ -1,27 +1,51 @@
 # markgames
 
 
-# Hi, I'm Mark 👋
+# 👋 你好，我是 Mark
 
-### AI Game Developer | Creative Coding
+### 🎮 AI 游戏开发者 | 创意编程 | 独立游戏探索者
 
-I build playable worlds, experimental games
-and interactive 3D experiences with AI.
+热衷于探索 AI 与游戏开发的无限可能。
 
-🎮 Currently building: Pelican Coast  
-🌊 Interested in: 3D games, simulation and WebGL  
-🤖 Tools: ChatGPT, Claude Code, Three.js
+我正在使用 ChatGPT、Claude Code 等 AI 工具，将创意和想法转化为真正可以游玩的游戏。
 
-## Featured Games
+从一段提示词到一个完整的游戏世界，不断探索 AI 辅助游戏开发的可能性。
 
-| Game | Description |
-|------|-------------|
-| Pelican Coast | A pelican cycling along the coast |
+### 🚀 当前正在开发
 
-## What I'm Building
+🦩 **Pelican Coast｜鹈鹕海岸**
 
-I explore how far AI-assisted game development
-can go, from a single prompt to a playable game.
+一只戴着头盔和墨镜、系着红围巾的鹈鹕，在美丽的海岸公路上骑行、跳跃、捕鱼。
 
-Follow my journey as I build and publish
-new games.
+游戏包含实时 3D 场景、物理模拟、昼夜循环、动态海浪和多视角镜头系统。
+
+### 🛠️ 技术与工具
+
+- 🤖 AI 工具：ChatGPT、Claude Code
+- 💻 开发技术：JavaScript、Three.js、WebGL
+- 🎨 创作方向：3D 游戏、物理模拟、创意编程
+- 🌏 发布方向：面向中国玩家的浏览器游戏
+
+### 🕹️ 我的游戏作品
+
+| 游戏名称 | 游戏介绍 | 状态 |
+|---------|---------|------|
+| 🦩 鹈鹕海岸 | 3D 海岸骑行、捕鱼与自由探索 | 开发中 |
+
+更多游戏正在制作中……
+
+### 🌌 关于我的创作
+
+我相信，AI 正在改变游戏开发的方式。
+
+即使没有庞大的开发团队，个人创作者也可以借助 AI，将脑海中的奇思妙想变成可交互的游戏世界。
+
+我希望通过不断尝试、学习和创造，探索从一句提示词到一款完整游戏的全过程。
+
+这里将记录我的 AI 游戏开发实践，持续分享游戏作品、开发过程与创意实验。
+
+欢迎试玩我的作品，也欢迎交流、提出建议，一起探索 AI 游戏开发的未来！
+
+---
+
+⭐ 如果你喜欢我的作品，欢迎给项目点个 Star！
